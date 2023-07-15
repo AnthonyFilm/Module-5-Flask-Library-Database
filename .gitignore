@@ -1,0 +1,7 @@
+.vscode
+__pychache__
+migrations
+app.db
+.env 
+.DS_Store
+venv
